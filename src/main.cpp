@@ -1,5 +1,5 @@
 #include <iostream>
-#include <windows.h>
+#include <Windows.h>
 #include <thread>
 
 // mouse click simulation
